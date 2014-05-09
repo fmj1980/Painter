@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59AACF24-7C30-4B16-973C-5B77D74D6DC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Painter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D805655E-188B-4D8A-B4B1-A076AD1EF11A</key>
+		<string>https://github.com/fmj1980/Painter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Painter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D805655E-188B-4D8A-B4B1-A076AD1EF11A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fmj1980/Painter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D805655E-188B-4D8A-B4B1-A076AD1EF11A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D805655E-188B-4D8A-B4B1-A076AD1EF11A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Painter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
